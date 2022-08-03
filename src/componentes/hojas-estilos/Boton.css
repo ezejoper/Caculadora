@@ -16,10 +16,10 @@
 }
 
 .boton-contenedor:hover{
-    background-color: #5a01a7;
+    background-color: #0000de;
 }
 .operador{
-    background-color: green;
+    background-color: rgb(250, 142, 1);
 }
 .operador:hover{
     background-color: salmon;

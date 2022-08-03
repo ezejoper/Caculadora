@@ -1,5 +1,5 @@
 import './App.css';
-import FreecodecampLogo from './Imagenes/freecodecamp-logo.png'
+// import FreecodecampLogo from './Imagenes/freecodecamp-logo.png'
 import Boton from './componentes/Boton'
 import '../src/componentes/hojas-estilos/Boton.css'
 import Pantalla from './componentes/Pantalla';
@@ -27,13 +27,7 @@ function App() {
 
   return (
     <div className="App">
-      <div className='Logo-contenedor'>
-        <img
-        src={FreecodecampLogo}
-        alt='Logo de freecodecamp'
-        className='freecodecamp-logo'
-        />
-      </div>
+    
       <div className='contenedor-calculadora'>
       <Pantalla input={input}/>
       <div className='fila'>

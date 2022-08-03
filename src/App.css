@@ -8,26 +8,17 @@
     justify-content: center;
     align-items: center;
 }
-.Logo-contenedor{
-    width: 100%;
-    height: 50px;
-    margin: 8px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
 
-.freecodecamp-logo{
-    height: 40px;
-}
+
+
 
 .contenedor-calculadora{
   width: 400px;
   height: 600px;
   padding: 14px;
-  background-color:#99c9ff ;
+  background-color:#ffffff ;
   border-radius: 20px;
-  border: 5px solid black
+  border: 5px solid rgb(0, 20, 87)
 }
 .fila{
   margin: 4px;
